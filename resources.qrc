@@ -1,0 +1,6 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>help/help_dist_compute.txt</file>
+    <file>help/help_sense_compute.txt</file>
+</qresource>
+</RCC>

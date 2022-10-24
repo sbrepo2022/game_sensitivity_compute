@@ -1,0 +1,1 @@
+A useful utility for transferring sensitivity settings from one game to another. To transfer the sensitivity, it is necessary to measure the 360-degree rotation inside the game for the current dpi of the mouse, remember the value obtained and achieve the same value when rotating 360 degrees in another game.
